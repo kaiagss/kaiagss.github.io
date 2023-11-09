@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Yan, Be a lifelong leaner, Launches Site"
 date: 2014-04-30
 ---
 
