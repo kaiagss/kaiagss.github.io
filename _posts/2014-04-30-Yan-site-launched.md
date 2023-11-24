@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Yan, Be a lifelong leaner, Launches Site"
-date: 2014-04-30
----
 title: "Yan, 认知觉醒"
+date: 2014-04-30
 date: 2023-11-24
 ---
 
