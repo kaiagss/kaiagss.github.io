@@ -2,8 +2,6 @@
 layout: post
 title: "把不想做的事当成功夫来练"
 date: 2023-11-29 Wed
-author: kaia
-tags: - 反思
 ---
 
 # 心慌的原因
