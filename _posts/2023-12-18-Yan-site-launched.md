@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《时间贫困》"
+title: "时间贫困"
 date: 2023-12-18 Mon
 ---
 2023-12-18 03:06:47 CST|3h 54min 14s
