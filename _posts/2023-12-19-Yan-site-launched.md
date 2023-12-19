@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "时间贫困"
+title: "奥本海默"
 date: 2023-12-19 Tue
 ---
 
