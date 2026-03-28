@@ -11,7 +11,7 @@ date: 2026-03-28
 </audio>
 
 <audio controls>
-  <source src="https://kaiagss.github.io/my-music/2.dweller.mp3)" type="audio/mpeg">
+  <source src="https://kaiagss.github.io/my-music/2.dweller.mp3)">
 </audio>
 
 <audio controls>
