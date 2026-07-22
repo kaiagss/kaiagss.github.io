@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yan, Applications of Timber Structures and Wood Construction in Architecture"
+title: "Applications of Timber Structures and Wood Construction in Architecture"
 date: 2023-11-24
 ---
 
